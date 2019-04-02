@@ -1,5 +1,5 @@
 [package]
-name = "cloud-server"
+name = "cloud_server"
 version = "0.1.0"
 authors = ["twistezo <kolkolukasz@gmail.com>"]
 edition = "2018"
